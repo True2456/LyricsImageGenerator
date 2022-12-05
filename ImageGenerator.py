@@ -1,6 +1,6 @@
 import openai as openai
 
-key = "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"
+key = ""
 openai.api_key = key
 image = []
 def getLyrics(input):
